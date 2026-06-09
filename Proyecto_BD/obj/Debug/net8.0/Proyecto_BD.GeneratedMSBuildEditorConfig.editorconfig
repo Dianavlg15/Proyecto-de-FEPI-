@@ -1,0 +1,489 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto_BD
+build_property.RootNamespace = Proyecto_BD
+build_property.ProjectDir = C:\Users\dvlg1\Source\Repos\Proyecto_BD\Proyecto_BD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dvlg1\Source\Repos\Proyecto_BD\Proyecto_BD
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Bitacoras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQml0YWNvcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/CitasHorarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNIb3Jhcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/CitasHorarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNIb3Jhcmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/CitasHorarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNIb3Jhcmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/CitasHorarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNIb3Jhcmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/CitasHorarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNIb3Jhcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Citas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Citas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Citas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Citas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Citas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Consultorios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdG9yaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Consultorios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdG9yaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Consultorios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdG9yaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Consultorios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdG9yaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Consultorios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdG9yaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Especialidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Especialidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Especialidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Especialidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Especialidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/EstatusCitas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0NpdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/EstatusCitas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0NpdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/EstatusCitas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0NpdGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/EstatusCitas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0NpdGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/EstatusCitas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0NpdGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Home/RecuperarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWN1cGVyYXJQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Home/RegistroPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryb1BhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Jornadas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Jornadas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Jornadas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Jornadas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Jornadas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/AsignarConsultorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xBc2lnbmFyQ29uc3VsdG9yaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/AsignarJornada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xBc2lnbmFySm9ybmFkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/EditarDatos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xFZGl0YXJEYXRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Medicos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pacientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pacientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pacientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pacientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pacientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Pagos/RealizarPago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcUmVhbGl6YXJQYWdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/EditarDatos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcRWRpdGFyRGF0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recepcionistas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recetas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recetas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recetas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recetas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Recetas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Servicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Servicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Servicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Servicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/AgregarMedicina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xBZ3JlZ2FyTWVkaWNpbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/AgregarServicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xBZ3JlZ2FyU2VydmljaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/GenerarTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xHZW5lcmFyVGlja2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tickets/RegistrarVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xSZWdpc3RyYXJWZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoSangres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NhbmdyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoSangres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NhbmdyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoSangres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NhbmdyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoSangres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NhbmdyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoSangres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1NhbmdyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoUsuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoUsuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoUsuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoUsuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/TipoUsuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Tratamientos/RegistrarTratamiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXFJlZ2lzdHJhclRyYXRhbWllbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Ventas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Ventas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Ventas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Ventas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Ventas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dvlg1/Source/Repos/Proyecto_BD/Proyecto_BD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ba6ss525pp

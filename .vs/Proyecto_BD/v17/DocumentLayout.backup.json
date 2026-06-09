@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\wwwroot\\css\\registro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\wwwroot\\css\\pacienteestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\wwwroot\\css\\pacienteestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\views\\home\\recuperarpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\views\\home\\recuperarpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|c:\\users\\dvlg1\\source\\repos\\proyecto_bd\\proyecto_bd\\wwwroot\\css\\recuperarpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24799C7B-51EC-4CCB-AB00-95B9E0837CE6}|Proyecto_BD\\Proyecto_BD.csproj|solutionrelative:proyecto_bd\\wwwroot\\css\\recuperarpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_BD\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Proyecto_BD\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T05:11:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.css",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\Registro.css",
+              "RelativeDocumentMoniker": "Proyecto_BD\\wwwroot\\css\\Registro.css",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\Registro.css",
+              "RelativeToolTip": "Proyecto_BD\\wwwroot\\css\\Registro.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T05:00:36.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecuperarPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Home\\RecuperarPassword.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_BD\\Views\\Home\\RecuperarPassword.cshtml",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Home\\RecuperarPassword.cshtml",
+              "RelativeToolTip": "Proyecto_BD\\Views\\Home\\RecuperarPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T04:58:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "recuperarPassword.css",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\recuperarPassword.css",
+              "RelativeDocumentMoniker": "Proyecto_BD\\wwwroot\\css\\recuperarPassword.css",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\recuperarPassword.css",
+              "RelativeToolTip": "Proyecto_BD\\wwwroot\\css\\recuperarPassword.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T04:48:24.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "Proyecto_BD\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "Proyecto_BD\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T04:36:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto_BD\\appsettings.json",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\appsettings.json",
+              "RelativeToolTip": "Proyecto_BD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T04:02:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_BD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto_BD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T03:58:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacienteEstilo.css",
+              "DocumentMoniker": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\PacienteEstilo.css",
+              "RelativeDocumentMoniker": "Proyecto_BD\\wwwroot\\css\\PacienteEstilo.css",
+              "ToolTip": "C:\\Users\\dvlg1\\Source\\Repos\\Proyecto_BD\\Proyecto_BD\\wwwroot\\css\\PacienteEstilo.css",
+              "RelativeToolTip": "Proyecto_BD\\wwwroot\\css\\PacienteEstilo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T03:56:05.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
